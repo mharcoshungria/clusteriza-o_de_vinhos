@@ -2,7 +2,7 @@
 
 **Objetivo:** 
 
-A elaboração de um Jupyter Notebook com todos os passos de um projeto que deverá utilizar uma das seguintes técnicas: Redes Neurais Artificiais, Algoritmos de Agrupamento, Algoritmos de Associação e Processamento de Linguagem Natural.
+A elaboração de um Jupyter Notebook com todos os passos de um projeto que deverá utilizar uma das seguintes técnicas: _Redes Neurais Artificiais, Algoritmos de Agrupamento, Algoritmos de Associação e Processamento de Linguagem Natural_.
 
 **Problemática:**
 
