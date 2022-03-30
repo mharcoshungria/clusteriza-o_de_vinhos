@@ -1,4 +1,9 @@
-# Projeto II - Futuro dos Dados e Aplicação de Big Data
+<img src="https://media.glassdoor.com/sqll/1280196/grupo-uniasselvi-squarelogo-1576734788279.png"  width="160">
+
+# Projeto de Clusterização - Wine
+
+Este repositório refere-se ao Projeto II - Futuro dos Dados e Aplicação de Big Data do curso de Tecnologia em ig Data e Inteligência Analítica do [Centro Universitário Leonardo da Vinci - Uniasselvi](https://portal.uniasselvi.com.br/). 
+
 
 **Objetivo:** 
 
